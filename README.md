@@ -1,12 +1,12 @@
 ### Oii!! Eu sou o Antony Rodrigues👋
  <div style="display: flex;">
-  <a href="https://github.com/tonnacker" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api?username=tonnacker&theme=dark&show_icons=true" height=180px></a>
-  <a href="https://github.com/tonnacker" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnacker&theme=dark&layout=compact&langs_count=8" height=180px></a>
+  <a href="https://github.com/tonnacker" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api?username=tonnacker&theme=dark&show_icons=true" height=170px></a>
+  <a href="https://github.com/tonnacker" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnacker&theme=dark&layout=compact&langs_count=8" height=170px></a>
  </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
