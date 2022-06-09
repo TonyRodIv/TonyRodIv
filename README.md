@@ -1,5 +1,5 @@
 ### Oii!! Eu sou o Antony Rodrigues👋
- <div style="display: block-inline;">
+ <div style="display: flex;">
   <a href="https://github.com/tonnacker" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api?username=tonnacker&theme=dark&show_icons=true" height=180px></a>
   <a href="https://github.com/tonnacker" style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnacker&theme=dark&layout=compact&langs_count=8" height=180px></a>
  </div>
