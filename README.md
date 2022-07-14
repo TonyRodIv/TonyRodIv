@@ -1,4 +1,4 @@
-### Oii!! Meu nome é Antony Rodrigues👋 e eu sou um estudante de programação
+### Oii!! Meu nome é Antony Rodrigues👋
 <div align="center">
   <a href="https://github.com/tonnacker">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tonnacker&theme=tokyonight&show_icons=true"/>
