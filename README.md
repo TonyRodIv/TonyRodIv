@@ -5,6 +5,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnacker&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
   
+  <hr>
+  
 ### Tecnologias que estou estudando no momento 📚 
 <div style="display: inline_block">
   <img    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
