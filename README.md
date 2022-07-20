@@ -11,7 +11,9 @@
   <img    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </div>
-    
+  
+    ---
+  
  ### Me encontre em 📱
   <div style="display: inline_block"> 
   <a href="https://instagram.com/tonttyx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
