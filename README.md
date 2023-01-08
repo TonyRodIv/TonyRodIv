@@ -1,8 +1,8 @@
-## Oii!! Meu nome é Antony Rodrigues👋
+## Olá!! Meu nome é Antony Rodrigues👋
 <div>
-  <a href="https://github.com/tonnacker">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tonnacker&theme=tokyonight&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnacker&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/tonyrodiv">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tonyrodiv&theme=tokyonight&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyrodiv&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
   
   ---
@@ -23,6 +23,6 @@
   <a href = "mailto:antony.rodriguesiv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
-  ![Snake animation](https://github.com/tonnacker/tonnacker/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/tonyrodiv/tonyrodiv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
