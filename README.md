@@ -1,4 +1,4 @@
-## Olá!! Meu nome é Tony Rodrigues👋 (e eu tenho que voltar a usar isso aq)
+## Olá!! Meu nome é Antony Rodrigues👋 (e eu tenho que voltar a usar isso aqui)
 <div>
     <a href="https://github.com/TonyRodIv">
         <img height="160em"
